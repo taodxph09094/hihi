@@ -89,11 +89,11 @@ a.filled-button:hover {
 }
 
 .products-heading {
-	background-image: url(../images/products-heading.jpg);
+	background-image: url("https://photos.app.goo.gl/bWMm6YhHKLPTBumh9");
 }
 
 .about-heading {
-	background-image: url(../images/about-heading.jpg);
+	background-image: url("https://photos.google.com/album/AF1QipMlrjHsEWs3qcBIlzqxfDReUYGd32U5vsuVaQuh/photo/AF1QipOZrWg1wVQUzG_foraIOw_oQfyCRUFRyeZYgqup");
 }
 
 .contact-heading {
@@ -318,7 +318,7 @@ header .navbar {
 
 .banner-item-01 {
 	padding: 300px 0px;
-	background-image: url(../images/slide_01.jpg);
+	background-image: url("https://photos.app.goo.gl/6eV6EK4hmR9zDS1M7");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -326,7 +326,7 @@ header .navbar {
 
 .banner-item-02 {
 	padding: 300px 0px;
-	background-image: url(../images/slide_02.jpg);
+	background-image: url("https://photos.app.goo.gl/bJ3WCeGwEk1afX5F6");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -334,7 +334,7 @@ header .navbar {
 
 .banner-item-03 {
 	padding: 300px 0px;
-	background-image: url(../images/slide_03.jpg);
+	background-image: url("https://photos.app.goo.gl/bJ3WCeGwEk1afX5F6");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
